@@ -1014,7 +1014,7 @@ Scroller.prototype.calculateViewPortOffsets = function (forceScrollBars, useActu
     //remember the offsets for later. if scrolling is not needed, then
     //we will ignore the offsets from here forward
     this._viewPortOffset.top = this._paddingTop;
-    this._viewPortOffset.rigth = this._paddingRight;
+    this._viewPortOffset.right = this._paddingRight;
     this._viewPortOffset.bottom = this._paddingBottom;
     this._viewPortOffset.left = this._paddingLeft;
     //we need to double check the horizontal scroll bar if the scroll

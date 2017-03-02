@@ -7,7 +7,7 @@ var Skinable = require('../core/Skinable'),
  * This is the common ground for ScrollBar and Slider
  *
  * @class Scrollable
- * @extends GOWN.Scrollable
+ * @extends GOWN.Skinable
  * @memberof GOWN
  * @constructor
  */
